@@ -18,4 +18,4 @@ class ViewController: UIViewController {
 
 }
 
-//Marnie's awesome amazing switch app
+//Switch it up is the BEST app that does nothing :)
